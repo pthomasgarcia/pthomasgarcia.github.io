@@ -1,6 +1,6 @@
 *.gem
+*.gemspec
 .bundle
-.gemspec
 .sass-cache
 _includes/
 _layouts/
