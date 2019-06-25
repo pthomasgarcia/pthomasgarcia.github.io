@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/pthomasgarcia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pthomasgarcia.com
+  * I am pthomasgarcia (https://keybase.io/pthomasgarcia) on keybase.
+  * I have a public key with fingerprint 69EF E9B3 C40B 9DAD 0874  B5D0 20E2 0C31 C5EA AE24
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010165a37e960c5e54a4e8ea0b71362ec0a6f0c51f9ee085a9680ebf99870cae56ce0a",
+      "fingerprint": "69efe9b3c40b9dad0874b5d020e20c31c5eaae24",
+      "host": "keybase.io",
+      "key_id": "20e20c31c5eaae24",
+      "kid": "010165a37e960c5e54a4e8ea0b71362ec0a6f0c51f9ee085a9680ebf99870cae56ce0a",
+      "uid": "05a5008971f2395ca71d28baed848a19",
+      "username": "pthomasgarcia"
+    },
+    "service": {
+      "hostname": "pthomasgarcia.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1512045100,
+  "expire_in": 157680000,
+  "prev": "c458cc190635df35ef7cc09a66e3c47907da40f4f0e82d835cafce71ea6a911d",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbbA1RFL0tFYqofkjxQaYVElXnzPvcVBGvJl6JerfcnDmzpx3aO9fM
+tDSNRNOgD48vkQqlKBFymxaJRwjVIpQIaVKJSEVpPH+oiHqd8fjz6evk7L3WOmvt
+s9tHDgolJ7xY/anu7UDT4YS714+WhtZO+JJZIRiOWS6EK4SN8OuAYhM8P7LRNoWw
+gDDCqkIlDYiKmAKKTGXQgSJDw5IqAkNUtXgDWwQA6Qolqo7AsAjRNcQoKCoDRIVM
+wbKjheDGXDvqc1mVgAXEkJiMDGJSE+mabCgmEhGIiEmYv0QpiDInFjlewODmDOpB
+lu3wGr9Eftn7B/4/+y79LadQBSGdaNgSJaIwqmFT1A0Kpi7rFJMA6IEbpSXA0TG/
+yCmhXiF1mU2FrZkCb5XZDILpBnH+BctiTglXibmO7zCnmLeLfD/mhQO6Xx4L8JvB
+iPxRihh21OQT5YwycD3biQphzJHMtwNprGARyQpGKFOALTHbhYgdIBSNp0RBNeZC
+GZdksqIzhglSJcW0JAUsjTFEqKoC/xuNIM2kMrJkC4EumrrEk1sMNAxUpQRjUwiy
+bYo6QljWuE9ayDU9uzBK/VIXhK1t1woGhxKSQ0OSEoNVCyUPS/m7gMu7hoYqhywd
+/Sxl6qlZWSk1k1oe1B+ovr+ju//r5KtpDebehWO37/azve9pbwc+mvn1u1D652OV
+U95YtR0J5XU5B+RecjSnY0ZrjdLcU/XNF+Ozi3NvX7znGU9Sm6X03IqVNe0rLvTn
+kg+xqj3XfixqnZrT9C5v9fs19onevuNztzec79p2tS5x+rjamv3j+/c3vppfva7N
+Hn3r5DQ/tepMZEH1qoEld2ZW9z6K51QeWj+uV36Z0RKvb87aN7HnrN23GcnnlsVL
+jWPH+zIKNmTnwbLHp7OHduMueduVg5cKFs8R4o0Dr0dMm+cdqerr7L4xqjMpXvt8
+Z9HCp80Pb15+NuF9vjNmZvrwn2BHTVs=
+=FzTs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pthomasgarcia
+
+==================================================================
+

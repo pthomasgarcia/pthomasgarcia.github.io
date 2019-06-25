@@ -1,0 +1,5 @@
+$ORIGIN pthomasgarcia.id
+$TTL 3600
+pubkey TXT "pubkey:data:029809e8ffc678d68d3e953813fb168dee0e6e540e0fa3e3a1d725294d7eb22f02"
+_http._tcp URI 10 1 "https://pthomasgarcia.com/pthomasgarcia.id"
+_http._tcp URI 10 1 "https://ipfs.io/ipfs/QmTkbdCNZQt4wk7TNn4x9uJr28jbdy3e2umJ7xrBUWA9MX"
