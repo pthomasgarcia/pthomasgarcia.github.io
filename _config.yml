@@ -1,35 +1,36 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
+title: García de los Angeles
+
+author:
+  name: P. Thomas Garcia
+  url: https://pthomasgarcia.com
+
+email: pthomasgarcia@protonmail.com
+
+description: > # `>` means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+url: "https://pthomasgarcia.com" # the base protocol & hostname for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: pthomasgarcia
+    dribbble: pthomasgarcia
+    github:  pthomasgarcia
+    instagram: pthomasgarcia
+    # linkedin: pthomasgarcia
+    # youtube: pthomasgarcia
+    # telegram: pthomasgarcia
     rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -42,6 +43,12 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+
+# Permalink settings
+permalink: pretty
+
+# Build settings
+markdown: kramdown
 
 # Build settings
 theme: minima
